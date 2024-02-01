@@ -1,2 +1,2 @@
-# GKIT
-gKIT For Python.
+# pghkit
+PGHkit For Python.
